@@ -1,0 +1,3 @@
+.country-wrapper{position:relative}.country-wrapper::after{position:absolute;top:0;left:0;width:100%;height:100%;border:1px dashed red;content:" ";pointer-events:none}.country-wrapper__sets{position:absolute;top:0;left:0;color:red;font-size:1.4rem;padding:2px 5px;border:1px dashed red;border-left:0;border-top:0;text-shadow:0 0 1px rgba(255,255,255,.75);z-index:1}
+
+/*# sourceMappingURL=cmsplugin_country_wrapper.css.map*/
